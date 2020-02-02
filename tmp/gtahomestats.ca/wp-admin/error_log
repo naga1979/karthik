@@ -1,0 +1,2 @@
+[12-Mar-2018 10:32:43 UTC] WordPress database error Unknown column 'gtaWP49_' in 'field list' for query SELECT gtaWP49_
+[12-Mar-2018 10:48:22 UTC] PHP Warning:  Error while sending QUERY packet. PID=597458 in /home/matrixmortgage/public_html/gtahomestats.ca/wp-includes/wp-db.php on line 1944
